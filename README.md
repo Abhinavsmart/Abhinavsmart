@@ -6,6 +6,8 @@
 Here are some ideas to get you started
 
 --
+!https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
 
 ![Abhinav github Activity](https://activity-graph.herokuapp.com/graph?username=Abhinavsmart&hide_border=true&theme=redical)
 
