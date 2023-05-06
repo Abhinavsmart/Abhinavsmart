@@ -9,6 +9,20 @@ Here are some ideas to get you started
 
 ## SKILLS
 
+Python
+PySpark
+PyTorch
+TensorFlow
+Time Series
+Geo Spatial Data Analysis
+Regression
+Classification
+Clustering
+NLP
+Statistics
+SQL
+DBMS
+
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
